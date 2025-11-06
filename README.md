@@ -7,6 +7,16 @@ Hello, world!
 [![Header](https://sun9-45.userapi.com/impf/KJw4u35CDewOWh2SQRrtjGwMSz7hxBCVMA96-Q/zZjO7DQtzDo.jpg?size=960x384&quality=96&crop=0,44,1363,545&sign=17385570fc20e44ba8665dfc78b59d20&c_uniq_tag=Ig3GB21jEOfhrIUjS0w3Wg9CKXPNTci0vT8Kc2oP1kI&type=helpers&quot)](https://milesthon.github.io)
 
 ***
+<div align="left">
+
+- [Полный руководство по безопасности](https://github.com/MilesthoN/COMPLETE-SECURITY-GUIDE)
+- [Установить Русские сертификаты на Windows](https://github.com/MilesthoN/RussianCER)
+- [Очистить Windows от кэша и ненужных файлов](https://github.com/MilesthoN/cleare)
+- [Ускорить Windows](https://github.com/MilesthoN/Speedo)
+- [Сборник для системного администратора](https://github.com/MilesthoN/mUFSA)
+
+***
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/My_Website-2ea44f?style=for-the-badge&logo=Earth&logoColor=white)](https://milesthon.github.io)
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UCy2JxQdX8dT2Tbj4ykUkqFw)
