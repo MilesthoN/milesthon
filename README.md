@@ -12,7 +12,7 @@
 
 ## 🧰 Мои скрипты
 
-### ⚡ Разное
+### 📖 Руководства
 - [Полное руководство по безопасности](https://github.com/MilesthoN/COMPLETE-SECURITY-GUIDE)
 
 ### 🪟 Windows
