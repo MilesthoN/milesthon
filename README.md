@@ -11,10 +11,23 @@ Hello, world!
 
 ## Мои скрипты:
 - [Полный руководство по безопасности](https://github.com/MilesthoN/COMPLETE-SECURITY-GUIDE)
-- [Установить Русские сертификаты на Windows](https://github.com/MilesthoN/RussianCER)
-- [Очистить Windows от кэша и ненужных файлов](https://github.com/MilesthoN/cleare)
-- [Ускорить Windows](https://github.com/MilesthoN/Speedo)
+#### Windows
+- [Полезное меню](https://github.com/MilesthoN/menuS)
+- [Установить Русские сертификаты](https://github.com/MilesthoN/RussianCER)
+- [Очистить](https://github.com/MilesthoN/cleare)
+- [Ускорить](https://github.com/MilesthoN/Speedo)
+- [Разблокировать от вирусов](https://github.com/MilesthoN/UnVirus)
 - [Сборник для системного администратора](https://github.com/MilesthoN/mUFSA)
+- [Панель управления CMD](https://github.com/MilesthoN/ControlCommands)
+- [Починить обновления](https://github.com/MilesthoN/FixUpdateWindows)
+- [Авто обноление до Windows 10](https://github.com/MilesthoN/AutoUpgradeWin)
+- [Узнать версию на диске](https://github.com/MilesthoN/WindowsVersionOnAnotherDrive)
+- [Восстановить локальные профили](https://github.com/MilesthoN/Restore_Profile_Location)
+- [Установить ADB](https://github.com/MilesthoN/InstallADB)
+- [Установить PHP](https://github.com/MilesthoN/InstallPHP)
+- [PopCat Мусорка](https://github.com/MilesthoN/PopCatTrash)
+#### PHP
+- [Проверка ссылок Телеграм](https://github.com/MilesthoN/CheckTGLinks)
 
 ***
 <div align="center">
