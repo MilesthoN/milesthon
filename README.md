@@ -21,7 +21,7 @@
 - [Очистить](https://github.com/MilesthoN/cleare)
 - [Ускорить](https://github.com/MilesthoN/Speedo)
 - [Разблокировать от вирусов](https://github.com/MilesthoN/UnVirus)
-- [Сборник для системного администратора](https://github.com/MilesthoN/mUFSA)
+- [Потрясающая коллекция скриптов для системных администраторов](https://github.com/MilesthoN/Awesome-Scripts-for-System-Admin)
 - [Панель управления CMD](https://github.com/MilesthoN/ControlCommands)
 - [Починить обновления](https://github.com/MilesthoN/FixUpdateWindows)
 - [Авто обновление до Windows 10](https://github.com/MilesthoN/AutoUpgradeWin)
